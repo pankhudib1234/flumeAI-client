@@ -11,6 +11,8 @@ openai.api_base = "https://flume-proxy.pankhudi.workers.dev/v1
 
 #### (2) Pass Flume API key as a header param to openAI API. 
 
+<normal>You should find the api key in the apps tab of your FlumeAI dashboard.</normal>
+
 ```python
 headers={
         "Flume-API-Key": "f40133ec-6e37-40fd-b8a0-272d56d6aaa9",
