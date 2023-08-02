@@ -21,4 +21,8 @@ headers={
 
 #### (3) Optional - How to pass tags 
 
+<normal>You can choose to identify you openAI with some tags. These tags will show alongside each API request on the requests tab of your FlumeAI dashbaord. You will be able to filter via these tags.</normal>
+
 #### (4) Optional - How to pass properties 
+
+<normal>You can set pass specific identifiers such as sessionId, conversationId, etc, by passing them to FlumeAI. These properties will show alongside each API request on the requests tab of your FlumeAI dashboard. This will allow to you filter by specific property values.</normal>
