@@ -71,7 +71,7 @@ def get_completion_langchain_simple():
     response = chain.run("dog")
     return jsonify(response)
 
-# TO-FIX - header is not getting passed to flume
+# langchain chat example
 @app.route("/flume/langchain/chat2", methods=["GET"])
 def get_completion_langchain_chat2():
     chat = ChatOpenAI(temperature=0.6,
