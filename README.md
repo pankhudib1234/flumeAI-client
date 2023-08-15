@@ -1,3 +1,5 @@
+<normal>FlumeAI is an observability solution for Generative AI apps, kinda like datadog is for refular apps. We help you log and track your openAI API requests. We also support Langchain. To get access, email pankhudi@gmailcom</normal>
+
 # How to use FlumeAI to log your openAI calls
 
 #### (1) Set the openAI base url to flumeAI
