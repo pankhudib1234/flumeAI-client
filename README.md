@@ -1,4 +1,4 @@
-<normal>FlumeAI is an observability solution for Generative AI apps, kinda like datadog/sentry is for regular apps. We help you log and track your openAI API requests and uncover potential issues with your responses. We support Langchain. To get access, email pankhudi@gmailcom</normal>
+<normal>FlumeAI is an observability solution for Generative AI apps, kinda like datadog/sentry is for regular apps. We help you log and track your openAI API requests and uncover potential issues with your responses. We support Langchain. To get access, email pankhudi@gmail.com</normal>
 
 # How to use FlumeAI to log your openAI calls
 
